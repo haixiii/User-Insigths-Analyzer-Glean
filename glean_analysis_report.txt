@@ -1,0 +1,120 @@
+GLEAN CUSTOMER SIGNAL ANALYSIS REPORT
+==================================================
+
+CATEGORY DISTRIBUTION
+------------------------------
+[Compeller: 25 signals (21%)
+Accelerator: 25 signals (21%)
+Differentiator: 16 signals (13%)
+Inhibitor]: 15 signals (13%)
+Differentiator]: 10 signals (8%)
+Stabilizer: 5 signals (4%)
+[Inhibitor: 5 signals (4%)
+Compeller]: 5 signals (4%)
+Stabilizer]: 4 signals (3%)
+[Accelerator: 4 signals (3%)
+Accelerator]: 2 signals (2%)
+[Differentiator: 2 signals (2%)
+Inhibitor: 1 signals (1%)
+
+
+INHIBITOR THEME ANALYSIS
+------------------------------
+# Glean Customer Review — Inhibitor Theme Analysis
+
+---
+
+## Theme 1: Authentication & Session Friction
+**Signal count:** 6
+
+**Pattern:** Users are repeatedly interrupted by forced re-login prompts and short session timeouts, disrupting workflow continuity and reducing the product's convenience value for daily use.
+
+**Most representative signal:**
+> *"Frequent login requirements create friction that slows daily usage and reduces the product's convenience value."*
+
+---
+
+## Theme 2: Search Quality & Relevance Gaps
+**Signal count:** 7
+
+**Pattern:** Inconsistent search accuracy, poor result ranking, over-broad results, and perceived keyword dependency collectively undermine user confidence in the core search function and push users toward alternative tools.
+
+**Most representative signal:**
+> *"Poor search ranking relevance undermines trust in results and reduces confidence in the tool's core function."*
+
+---
+
+## Theme 3: Security, Permissions & Trust Concerns
+**Signal count:** 5
+
+**Pattern:** Excessive permission requirements and unresolved security doubts are creating compliance friction and eroding vendor trust, actively blocking or slowing broader organizational adoption.
+
+**Most representative signal:**
+> *"Excessive and disproportionate permission requirements (e.g., full GitLab admin, broad read/write Chrome extension access) create security and trust concerns that slow or block broader adoption."*
+
+---
+
+## Theme 4: Workflow Integration & UX Friction
+**Signal count:** 4
+
+**Pattern:** Requiring separate tabs, inconsistent browser default behavior, and agent output errors introduce workflow interruptions that prevent Glean from becoming a seamless, habitual part of daily work.
+
+**Most representative signal:**
+> *"Requiring a separate tab for search creates friction in the workflow, slowing seamless adoption and daily use."*
+
+---
+
+## Theme 5: Admin Control & Customization Gaps
+**Signal count:** 3
+
+**Pattern:** Insufficient end-user customization, limited access control granularity, and sparse admin dashboards leave power users and administrators without the tools needed to configure, monitor, and scale adoption confidently — with pricing compounding the value concern.
+
+**Most representative signal:**
+> *"Minimal user usage insights in dashboards (missing datasource clicks, widget engagement, ingestion failures, doc counts) blocks self-serve analytics and reduces admin confidence."*
+
+---
+
+### Summary Table
+
+| # | Theme | Signals |
+|---|-------|---------|
+| 1 | Authentication & Session Friction | 6 |
+| 2 | Search Quality & Relevance Gaps | 7 |
+| 3 | Security, Permissions & Trust Concerns | 5 |
+| 4 | Workflow Integration & UX Friction | 4 |
+| 5 | Admin Control & Customization Gaps | 3 |
+| | **Total** | **25** |
+
+STRATEGIC SUMMARY AND RECOMMENDATIONS
+------------------------------
+# Glean Strategic Brand Summary
+
+---
+
+## 1. Core Strategic Problem
+
+Glean has achieved genuine product-market fit on a single, powerful promise: unified search across the fragmented SaaS enterprise. Customers adopt it decisively, use it daily, and describe it in superlatives. But the product is quietly undermining its own compounding advantage. A cluster of friction points — chronic login loops, inconsistent search relevance, excessive permission demands, and thin admin analytics — are attacking the exact behaviors that make Glean defensible: habitual, trust-based, daily use. This is not a feature gap problem. It is a trust erosion problem occurring inside an already-converted customer base. If Glean does not close the gap between its adoption promise and its daily reliability experience, it will face a ceiling on expansion, accelerate churn risk in price-sensitive accounts, and hand competitors a precise brief for where to attack.
+
+---
+
+## 2. Three Strategic Recommendations (Ranked by Priority)
+
+### Priority 1: Eliminate Friction in the Daily Use Loop — Before It Becomes a Churn Signal
+
+The most dangerous inhibitors are not the dramatic ones — they are the mundane ones that compound silently. Frequent forced logins, inconsistent browser extension defaults, and poor search relevance ranking are not minor UX inconveniences. They are direct attacks on the habit loop that makes Glean defensible. A tool that requires re-authentication multiple times per day cannot become the "internal Google" it is positioned to be. **Immediate action:** Treat login persistence, browser default reliability, and search relevance consistency as P0 product issues — not roadmap items. Establish a cross-functional task force (Product, Engineering, Customer Success) with a 60-day mandate to resolve the top three friction inhibitors measured by frequency of customer complaint. Set a public internal SLA. This is not a product improvement — it is customer retention infrastructure.
+
+### Priority 2: Harden the Security and Permissions Narrative — It Is Currently Blocking Expansion
+
+Multiple customers are explicitly flagging excessive permission requirements (full GitLab admin access, broad Chrome extension read/write) and expressing active doubt about Glean's commitment to data security. In enterprise B2B, security concern is not a friction point — it is a hard stop. IT and security teams can veto expansion or renewal regardless of end-user enthusiasm. Glean's current posture is leaving this objection unanswered at the field level. **Immediate action:** Audit every integration's permission scope and right-size each one to the minimum required — then publish a transparent security architecture brief that speaks directly to IT buyers, not end users. Pair this with a formal security FAQ in the sales and renewal process. The goal is to convert security from a blocker into a differentiator. Glean's permission-aware, role-based search is genuinely a security feature — it is not being positioned that way.
+
+### Priority 3: Build an Admin Intelligence Layer That Sells Expansion Internally
+
+Glean's champions are individual contributors and team leads who feel the daily value viscerally. But expansion — adding seats, adding integrations, renewing at higher price points — requires winning over administrators and economic buyers who currently have almost nothing to show leadership. Customers are explicitly citing missing dashboard data: no datasource click tracking, no widget engagement metrics, no ingestion failure visibility, no document count reporting. These are not power-user feature requests. They are the evidence layer that internal champions need to justify budget. **Immediate action:** Prioritize an admin analytics sprint that delivers a minimum viable ROI dashboard — one that connects Glean usage directly to time saved, searches resolved, and tool consolidation. This dashboard is not a product feature. It is Glean's internal sales tool, running inside every customer account, continuously building the renewal and expansion case without requiring a Glean sales rep in the room.
+
+---
+
+## 3. The Single Most Important Insight a CEO Should Act On Immediately
+
+**Glean's biggest competitive threat is not a competitor — it is its own login screen.**
+
+Customers are not leaving because a better product exists. They are describing fatigue, friction, and eroding trust caused by reliability failures in a tool they have already decided they love. The compellers are overwhelming and genuine. The accelerators are real. The differentiation is clear. But the inhibitors — particularly authentication friction, search inconsistency, and permission overreach — are accumulating inside the accounts Glean has already won. In enterprise SaaS, the expansion motion lives or dies on depth of daily habit. Every forced re-login is a moment where a user considers whether the tool is worth it. Right now, Glean is winning the evaluation and losing the habit. The CEO should treat friction removal in existing accounts as the single highest-leverage growth action available — not because it protects revenue, but because deep habitual usage in current accounts is the most credible proof point Glean has for every future enterprise sale.

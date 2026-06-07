@@ -1,0 +1,136 @@
+Review 1:
+The user interface of Glean is very easy to use, and the integrations that can be made to it, like connecting all the enterprise apps like Slack, Google Sheets, etc., are really easy. Also, if a complete prompt is added, the performance of the agent is really good. It has helped us with support for onboarding of new employees and supporting the team on tooling access as well.
+One of the things which I dislike about Glean is sometimes the agent does not perform well, even if the prompt is complete and has all the instructions added to it. It doesn't give me the correct result. For example, when I want to fetch hyperlinks from a spreadsheet, a lot of times incorrect hyperlinks are given by the agent, and a lot of times it has been observed that even though the instructions are given completely to the agent, the text is not hyperlinked. It is just given as a complete link itself, which looks very messy.
+One of the main business problems Glean is helping us solve is to allow new people who join the company get complete access to tooling support.
+
+Review 2:
+It's something that easy one-clock search for anyone or anything related to my company. Incredibly valuable to search across all of our various document and data storage, as well as a variety of another internal tooling.
+
+My favorite feature is just looking up my coworkers and learning about them from Glean. I also like the tenure feature, and use it often as a motivational piece for people who don't realize just how tenured they are compared to the company as a whole.
+
+It makes me log in to often and that is annoying. It also sometimes ranks stuff very highly in search returns that I think should be irrelevant / the bottom of the list.
+Glean makes it easy to find information within my company without having to search 10 different places. I am more productive because I can just type in "FY24 plan" and find all of the related documents people are drafting without me knowing
+
+Review 3:
+Glean is such a great tool when you need to find information or documentation, especially at remote companies. I'm able to search using a few keywords (like an internal google-style search) and results return that are filterable by type (Salesforce record, GDrive,Hubspot, Slack)
+
+You do have to re-login more than I'd like, not always convenient for quick/easy searches. I'd really like if Glean had more advanced filters to help me find what I need faster
+
+Glean is helping to solve the problem of too much noise in our documentation. I work at a remote-first company so it can be really hard to navigate all of the great documentation and different content my team has available. Glean also helps act as a shortcut when it comes to searching company accounts/users - instead of needing to open up Salesforce or your CRM, you can just drop the contact name in Glean and it will show everywhere that company appears within the company's tech stack.
+
+Review 4:
+
+use glean every day to search through historical slack messages, JIRA tickets, and Confluence docs.
+
+It's much better than the built-in search.
+
+It also supports custom integrations, which we use to connect several other services to Glean.
+Not happy with the permissions they ask for some integrations (they require full admin over gitlab just to index issues and PRs, full read/write over a lot of business websites to install the chrome extension)
+
+Doesn't make me comfortable that they're taking security seriously
+Helps us find things across our company, especially Slack and Confluence
+
+Review 5:
+The searching feature is really nice and i like it
+sometimes the searching feature doesnt find exactly what im looking for 
+Its helping me find information and files
+
+Review 6:
+
+Glean consolidates most platforms my org uses for analytics, resources, and more. The UI is simple and straightforward and saves immense amounts of time wasted on searching one by one across different tools.
+
+This may be an issue with mine or the org's settings, but Glean does require me to log in quite frequently, which is a tad bit time consuming. I would appreciate longer timeout intervals.
+
+Glean lets me search for what I'm looking for in one consolidated space, in lieu of searching across multiple platforms. It reduces overlapping information across systems and saves time for users.
+
+Review 7:
+
+Easy to search for resources across all repositories. Pulls up a ton of helpful content in seconds that have been created by other employees.
+Separate tab is needed for the search. At least this is how I've used it. A Chrome plug in would be helpful.
+Helps me find the content I need to best serve customers and reduces the amount of time I spend searching for that content across all of our tools.
+
+Review 8:
+I can find all the information I need in one place. There is one source of truth where I can search for anything in my organization. Making it easy to use while saving me time.
+Sometimes when I open a new browser, it does not open to Glean; it opens just to chrome, even though I have glean installed. That would be my only complaint, everything else about it is great.
+We have information in process and product in multiple different places. So Glean acts as a source of truth where we can search in one place to find information. Almost like an internal search engine.
+
+Review 9:
+Glean is very convenient to use, since I can just open a browser tab and type immediately.
+Sometimes the search results aren't quite what I was looking for, since the resources are so broad.
+Glean helps me find information quickly.
+
+Review 10:
+As an engineer, I really enjoy how easy it is to search for and find documents related to my keywords. I find myself heading there first, and more often than not, my needed documents are quickly found.
+
+Nothing too much that I dislike, but I guess I would be interested in searching github code if this is not already a feature.
+
+Glean was instrumental in my onboarding, because I was able to quickly find all the documents I needed. I was able to be more productive right off the bat, rather than messaging members of my team.
+
+Review 11:
+Easy to search for resources across all repositories. Pulls up a ton of helpful content in seconds that have been created by other employees.
+Separate tab is needed for the search. At least this is how I've used it. A Chrome plug in would be helpful.
+Helps me find the content I need to best serve customers and reduces the amount of time I spend searching for that content across all of our tools.
+
+Review 12:
+With one unified search, glean helps find documents, slack messages, and acronym solutions.
+Glean sometimes seems like it won't find stuff unless you find an exact keyword match. I hope it supports ChatGPT-style searching over company documents soon.
+- Know what acronyms mean
+- Find documentation or documents related to a topic
+- Find slack messages about a topic
+
+Review 13:
+I use glean every day to search through historical slack messages, JIRA tickets, and Confluence docs.
+
+It's much better than the built-in search.
+
+It also supports custom integrations, which we use to connect several other services to Glean.
+Not happy with the permissions they ask for some integrations (they require full admin over gitlab just to index issues and PRs, full read/write over a lot of business websites to install the chrome extension)
+
+Doesn't make me comfortable that they're taking security seriously
+Helps us find things across our company, especially Slack and Confluence
+
+Review 14:
+Increased efficiency, can find almost anything. Relevance of search results
+Filtering could be improved, for example when I am entering search text and want to restrict search results to a specific site.
+Discovering information in confluence, this search works better than confluence search results. Also like the fact that it searches in google doc, slack and several other resources
+
+Review 15:
+- Glean UI is responsive, and New Tab page caching is a beautiful concept.
+- Workhub idea is expanding its use case beyond just search engines.
+- Good team of responsive engineers, the focus is on building better products.
+- The speed of introducing newer integration with other SaaS platforms is mind-blowing.
+- Very less customization experience for end users regarding search in datasources and homepage content. Access control should be way better and granular. Like AD, team, location, Department, GGroups, Slack channel etc levels.
+- Minimal user usage insights in dashboards. e,g Datasource clicks, the Workhub widget view/clicks ratio is missing. No insights on ingestion failure or doc count etc. Lots more self-serve abilities need to add.
+Glean solve permission-based search for Organization. With more and more SaaS platforms in market, companies use different tools for different purpose which cause the scattering of information and Glean act as the gatherer of information
+
+Review 16:
+It's something that easy one-clock search for anyone or anything related to my company. Incredibly valuable to search across all of our various document and data storage, as well as a variety of another internal tooling.
+
+My favorite feature is just looking up my coworkers and learning about them from Glean. I also like the tenure feature, and use it often as a motivational piece for people who don't realize just how tenured they are compared to the company as a whole.
+It makes me log in to often and that is annoying. It also sometimes ranks stuff very highly in search returns that I think should be irrelevant / the bottom of the list.
+Glean makes it easy to find information within my company without having to search 10 different places. I am more productive because I can just type in "FY24 plan" and find all of the related documents people are drafting without me knowing
+
+Review 17:
+Seamless search across the SaaS landscape.
+The AM are very supportive
+They are coming with new features almost weekly
+The org chart is really nice
+
+It blew all of the other options available ( 12 months back) out of the water.
+It's really expensive - like more expensive than Google Workspace, where most of the data is actually sat!
+Sharing betweeen departments and during our merger it was really helpful to engage people and keep everyone up to date
+
+Review 18:
+I can find all the information I need in one place. There is one source of truth where I can search for anything in my organization. Making it easy to use while saving me time.
+Sometimes when I open a new browser, it does not open to Glean; it opens just to chrome, even though I have glean installed. That would be my only complaint, everything else about it is great.
+We have information in process and product in multiple different places. So Glean acts as a source of truth where we can search in one place to find information. Almost like an internal search engine.
+
+Review 19:
+Glean consolidates most platforms my org uses for analytics, resources, and more. The UI is simple and straightforward and saves immense amounts of time wasted on searching one by one across different tools.
+This may be an issue with mine or the org's settings, but Glean does require me to log in quite frequently, which is a tad bit time consuming. I would appreciate longer timeout intervals.
+Glean lets me search for what I'm looking for in one consolidated space, in lieu of searching across multiple platforms. It reduces overlapping information across systems and saves time for users.
+
+Review 20:
+Better search capabilities than even product-specific search functionalities (e.g. Google Drive searchbar). That combined with the ability to view multiple information sources make using it a no-brainer.
+Integrations with various products can occasionally stop working unexpectedly.
+Finding internal documentation, getting context on new tasks quickly
