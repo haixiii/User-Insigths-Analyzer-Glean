@@ -378,7 +378,7 @@ def show_results(category_counts, signals_by_category, rows, company_name):
 
 # ---- App layout ----
 
-st.title("📊 Market Signal Analyzer")
+st.title("📊 User Insights Analyzer")
 st.caption(
     "5-Dynamics Framework — Compellers · Accelerators · "
     "Differentiators · Stabilizers · Inhibitors"
