@@ -11,7 +11,7 @@ load_dotenv()
 
 # ---- Page config (must be first st call) ----
 st.set_page_config(
-    page_title="Market Signal Analyzer",
+    page_title="User Insights Analyzer",
     page_icon="📊",
     layout="wide"
 )
